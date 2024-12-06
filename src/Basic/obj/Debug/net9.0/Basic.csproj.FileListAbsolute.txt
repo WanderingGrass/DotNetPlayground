@@ -1,0 +1,12 @@
+G:\8_wandering\DotNetPlayground\src\Basic\bin\Debug\net9.0\Basic.deps.json
+G:\8_wandering\DotNetPlayground\src\Basic\bin\Debug\net9.0\Basic.dll
+G:\8_wandering\DotNetPlayground\src\Basic\bin\Debug\net9.0\Basic.pdb
+G:\8_wandering\DotNetPlayground\src\Basic\obj\Debug\net9.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+G:\8_wandering\DotNetPlayground\src\Basic\obj\Debug\net9.0\Basic.AssemblyInfoInputs.cache
+G:\8_wandering\DotNetPlayground\src\Basic\obj\Debug\net9.0\Basic.AssemblyInfo.cs
+G:\8_wandering\DotNetPlayground\src\Basic\obj\Debug\net9.0\Basic.csproj.CoreCompileInputs.cache
+G:\8_wandering\DotNetPlayground\src\Basic\obj\Debug\net9.0\Basic.sourcelink.json
+G:\8_wandering\DotNetPlayground\src\Basic\obj\Debug\net9.0\Basic.dll
+G:\8_wandering\DotNetPlayground\src\Basic\obj\Debug\net9.0\refint\Basic.dll
+G:\8_wandering\DotNetPlayground\src\Basic\obj\Debug\net9.0\Basic.pdb
+G:\8_wandering\DotNetPlayground\src\Basic\obj\Debug\net9.0\ref\Basic.dll

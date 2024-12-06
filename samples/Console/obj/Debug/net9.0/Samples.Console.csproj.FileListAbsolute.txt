@@ -1,0 +1,15 @@
+G:\8_wandering\DotNetPlayground\samples\Console\bin\Debug\net9.0\Samples.Console.exe
+G:\8_wandering\DotNetPlayground\samples\Console\bin\Debug\net9.0\Samples.Console.deps.json
+G:\8_wandering\DotNetPlayground\samples\Console\bin\Debug\net9.0\Samples.Console.runtimeconfig.json
+G:\8_wandering\DotNetPlayground\samples\Console\bin\Debug\net9.0\Samples.Console.dll
+G:\8_wandering\DotNetPlayground\samples\Console\bin\Debug\net9.0\Samples.Console.pdb
+G:\8_wandering\DotNetPlayground\samples\Console\obj\Debug\net9.0\Samples.Console.GeneratedMSBuildEditorConfig.editorconfig
+G:\8_wandering\DotNetPlayground\samples\Console\obj\Debug\net9.0\Samples.Console.AssemblyInfoInputs.cache
+G:\8_wandering\DotNetPlayground\samples\Console\obj\Debug\net9.0\Samples.Console.AssemblyInfo.cs
+G:\8_wandering\DotNetPlayground\samples\Console\obj\Debug\net9.0\Samples.Console.csproj.CoreCompileInputs.cache
+G:\8_wandering\DotNetPlayground\samples\Console\obj\Debug\net9.0\Samples.Console.sourcelink.json
+G:\8_wandering\DotNetPlayground\samples\Console\obj\Debug\net9.0\Samples.Console.dll
+G:\8_wandering\DotNetPlayground\samples\Console\obj\Debug\net9.0\refint\Samples.Console.dll
+G:\8_wandering\DotNetPlayground\samples\Console\obj\Debug\net9.0\Samples.Console.pdb
+G:\8_wandering\DotNetPlayground\samples\Console\obj\Debug\net9.0\Samples.Console.genruntimeconfig.cache
+G:\8_wandering\DotNetPlayground\samples\Console\obj\Debug\net9.0\ref\Samples.Console.dll

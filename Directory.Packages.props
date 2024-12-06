@@ -1,0 +1,20 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+  <!-- 包版本定义 -->
+  <ItemGroup>
+    <!-- Microsoft 包 -->
+    <PackageVersion Include="Microsoft.AspNetCore.App" Version="8.0.0" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    
+    <!-- 第三方包 -->
+    <PackageVersion Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageVersion Include="AutoMapper" Version="12.0.1" />
+    
+    <!-- 测试包 -->
+    <PackageVersion Include="xunit" Version="2.6.2" />
+    <PackageVersion Include="Moq" Version="4.20.69" />
+  </ItemGroup>
+</Project>

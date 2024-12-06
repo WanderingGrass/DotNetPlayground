@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GQalYpn4w5Slk8s2cDzYKIFCGanTuogZ6SHgMl+aHJA=",
+  "Source": "Samples.Microservices",
+  "BasePath": "_content/Samples.Microservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

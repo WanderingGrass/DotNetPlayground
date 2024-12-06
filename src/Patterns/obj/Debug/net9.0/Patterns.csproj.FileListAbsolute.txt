@@ -1,0 +1,12 @@
+G:\8_wandering\DotNetPlayground\src\Patterns\bin\Debug\net9.0\Patterns.deps.json
+G:\8_wandering\DotNetPlayground\src\Patterns\bin\Debug\net9.0\Patterns.dll
+G:\8_wandering\DotNetPlayground\src\Patterns\bin\Debug\net9.0\Patterns.pdb
+G:\8_wandering\DotNetPlayground\src\Patterns\obj\Debug\net9.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+G:\8_wandering\DotNetPlayground\src\Patterns\obj\Debug\net9.0\Patterns.AssemblyInfoInputs.cache
+G:\8_wandering\DotNetPlayground\src\Patterns\obj\Debug\net9.0\Patterns.AssemblyInfo.cs
+G:\8_wandering\DotNetPlayground\src\Patterns\obj\Debug\net9.0\Patterns.csproj.CoreCompileInputs.cache
+G:\8_wandering\DotNetPlayground\src\Patterns\obj\Debug\net9.0\Patterns.sourcelink.json
+G:\8_wandering\DotNetPlayground\src\Patterns\obj\Debug\net9.0\Patterns.dll
+G:\8_wandering\DotNetPlayground\src\Patterns\obj\Debug\net9.0\refint\Patterns.dll
+G:\8_wandering\DotNetPlayground\src\Patterns\obj\Debug\net9.0\Patterns.pdb
+G:\8_wandering\DotNetPlayground\src\Patterns\obj\Debug\net9.0\ref\Patterns.dll

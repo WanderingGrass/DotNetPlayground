@@ -1,0 +1,12 @@
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\bin\Debug\net9.0\CSharpFeatures.deps.json
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\bin\Debug\net9.0\CSharpFeatures.dll
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\bin\Debug\net9.0\CSharpFeatures.pdb
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\obj\Debug\net9.0\CSharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\obj\Debug\net9.0\CSharpFeatures.AssemblyInfoInputs.cache
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\obj\Debug\net9.0\CSharpFeatures.AssemblyInfo.cs
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\obj\Debug\net9.0\CSharpFeatures.csproj.CoreCompileInputs.cache
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\obj\Debug\net9.0\CSharpFeatures.sourcelink.json
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\obj\Debug\net9.0\CSharpFeatures.dll
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\obj\Debug\net9.0\refint\CSharpFeatures.dll
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\obj\Debug\net9.0\CSharpFeatures.pdb
+G:\8_wandering\DotNetPlayground\src\CSharpFeatures\obj\Debug\net9.0\ref\CSharpFeatures.dll

@@ -1,0 +1,16 @@
+<Project>
+  <PropertyGroup>
+    <!-- 统一设置所有项目的 .NET 版本 -->
+    <TargetFramework>net9.0</TargetFramework>
+    
+    <!-- SDK 版本控制 -->
+    <NetCoreVersion>9.0.0</NetCoreVersion>
+    <AspNetCoreVersion>9.0.0</AspNetCoreVersion>
+  </PropertyGroup>
+  
+  <!-- 统一管理包版本 -->
+  <ItemGroup>
+    <PackageReference Update="Microsoft.AspNetCore.App" Version="$(AspNetCoreVersion)" />
+    <PackageReference Update="Microsoft.NETCore.App" Version="$(NetCoreVersion)" />
+  </ItemGroup>
+</Project>

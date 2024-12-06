@@ -1,0 +1,12 @@
+G:\8_wandering\DotNetPlayground\src\Advanced\bin\Debug\net9.0\Advanced.deps.json
+G:\8_wandering\DotNetPlayground\src\Advanced\bin\Debug\net9.0\Advanced.dll
+G:\8_wandering\DotNetPlayground\src\Advanced\bin\Debug\net9.0\Advanced.pdb
+G:\8_wandering\DotNetPlayground\src\Advanced\obj\Debug\net9.0\Advanced.GeneratedMSBuildEditorConfig.editorconfig
+G:\8_wandering\DotNetPlayground\src\Advanced\obj\Debug\net9.0\Advanced.AssemblyInfoInputs.cache
+G:\8_wandering\DotNetPlayground\src\Advanced\obj\Debug\net9.0\Advanced.AssemblyInfo.cs
+G:\8_wandering\DotNetPlayground\src\Advanced\obj\Debug\net9.0\Advanced.csproj.CoreCompileInputs.cache
+G:\8_wandering\DotNetPlayground\src\Advanced\obj\Debug\net9.0\Advanced.sourcelink.json
+G:\8_wandering\DotNetPlayground\src\Advanced\obj\Debug\net9.0\Advanced.dll
+G:\8_wandering\DotNetPlayground\src\Advanced\obj\Debug\net9.0\refint\Advanced.dll
+G:\8_wandering\DotNetPlayground\src\Advanced\obj\Debug\net9.0\Advanced.pdb
+G:\8_wandering\DotNetPlayground\src\Advanced\obj\Debug\net9.0\ref\Advanced.dll
