@@ -51,10 +51,30 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Hybrid": {
+              "target": "Package",
+              "version": "[9.0.0-preview.7.24406.2, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[9.0.0-preview.7.24406.2, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
           "centralPackageVersions": {
             "AutoMapper": "12.0.1",
-            "Microsoft.AspNetCore.App": "8.0.0",
-            "Microsoft.EntityFrameworkCore": "8.0.0",
+            "Microsoft.AspNetCore.App": "9.0.0",
+            "Microsoft.EntityFrameworkCore": "9.0.0",
+            "Microsoft.Extensions.Caching.Hybrid": "9.0.0-preview.7.24406.2",
+            "Microsoft.Extensions.Caching.StackExchangeRedis": "9.0.0-preview.7.24406.2",
+            "Microsoft.Extensions.DependencyInjection": "9.0.0",
             "Moq": "4.20.69",
             "Newtonsoft.Json": "13.0.3",
             "xunit": "2.6.2"

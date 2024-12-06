@@ -1,0 +1,9 @@
+G:\8_wandering\DotNetPlayground\samples\WebApi\bin\Release\net9.0\publish\Samples.WebApi.exe
+G:\8_wandering\DotNetPlayground\samples\WebApi\bin\Release\net9.0\publish\appsettings.Development.json
+G:\8_wandering\DotNetPlayground\samples\WebApi\bin\Release\net9.0\publish\appsettings.json
+G:\8_wandering\DotNetPlayground\samples\WebApi\bin\Release\net9.0\publish\Samples.WebApi.dll
+G:\8_wandering\DotNetPlayground\samples\WebApi\bin\Release\net9.0\publish\Samples.WebApi.deps.json
+G:\8_wandering\DotNetPlayground\samples\WebApi\bin\Release\net9.0\publish\Samples.WebApi.runtimeconfig.json
+G:\8_wandering\DotNetPlayground\samples\WebApi\bin\Release\net9.0\publish\Samples.WebApi.pdb
+G:\8_wandering\DotNetPlayground\samples\WebApi\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+G:\8_wandering\DotNetPlayground\samples\WebApi\bin\Release\net9.0\publish\Microsoft.OpenApi.dll

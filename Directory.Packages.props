@@ -1,14 +1,18 @@
 <Project>
   <PropertyGroup>
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+     <AllowProjectSpecificPackageVersions>true</AllowProjectSpecificPackageVersions>
   </PropertyGroup>
 
   <!-- 包版本定义 -->
   <ItemGroup>
     <!-- Microsoft 包 -->
-    <PackageVersion Include="Microsoft.AspNetCore.App" Version="8.0.0" />
-    <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
-    
+    <PackageVersion Include="Microsoft.AspNetCore.App" Version="9.0.0" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Caching.Hybrid" Version="9.0.0-preview.7.24406.2" />
+    <PackageVersion Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="9.0.0-preview.7.24406.2" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="9.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="9.0.0" />
     <!-- 第三方包 -->
     <PackageVersion Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageVersion Include="AutoMapper" Version="12.0.1" />
