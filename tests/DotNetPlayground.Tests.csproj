@@ -16,6 +16,7 @@
   </ItemGroup>
 <ItemGroup>
     <ProjectReference Include="..\src\DotnetFeatures\DotnetFeatures.csproj" />
+     <ProjectReference Include="..\src\CSharpFeatures\CSharpFeatures.csproj" />
 </ItemGroup>
   <ItemGroup>
     <Using Include="Xunit" />
